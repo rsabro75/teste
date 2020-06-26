@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "name": "Bob Esponja",
       "age": "12",
@@ -51,4 +50,3 @@
       "id": 10
     }
   ]
-}
